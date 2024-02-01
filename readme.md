@@ -12,4 +12,4 @@ Instrucciones sobre cómo usar el proyecto o ejecutar el script.
 ## Contribuir
 Instrucciones sobre cómo contribuir al proyecto.
 ## Autores
-- Nombre del Autor
+- Gianmarco Beltran
